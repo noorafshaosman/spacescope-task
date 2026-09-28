@@ -219,3 +219,12 @@ body{
         position: relative;
         
     }
+     
+
+    .primary-button:hover{
+       color: blueviolet;
+    }
+
+    .secondary-button:hover{
+        color: blueviolet;
+    }  
